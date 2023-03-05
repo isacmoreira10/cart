@@ -1,0 +1,98 @@
+.tests {
+    display: flex;
+}
+
+.output {
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.itens {
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 419px;
+    height: 696px;
+    /*  border: 1px solid #00000036; */
+}
+
+
+.button {
+    font-size: 20px;
+    margin-top: 10px;
+    width: 634px;
+    height: 60px;
+    top: 328px;
+    left: 86px;
+    background-color: orange;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input {
+    text-align: left;
+    width: 308px;
+    height: 64px;
+    margin-top: 10px;
+    left: 85px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 15px;
+    background: #D9D9D9;
+    border-radius: 5px;
+}
+
+.name {
+    width: 75px;
+    height: 34px;
+    position: relative;
+    left: 145px;
+    bottom: 130px;
+    font-size: 35px;
+}
+
+.amount {
+    position: relative;
+    bottom: 131px;
+    left: 145px;
+    font-size: 25px;
+
+}
+
+.value {
+    position: relative;
+    bottom: 190px;
+    left: 185px;
+    font-size: 28px;
+}
+
+.itens-p {
+    height: 103px;
+}
+
+.total {
+    position: relative;
+    top: 770px;
+    right: 430px;
+}
+
+.count {
+    font-size: 32px;
+    position: relative;
+    left: 300px;
+}
+
+.paragraph {
+    font-size: 30px;
+    position: relative;
+    top: 780px;
+    right: 500px;
+}
